@@ -1,0 +1,28 @@
+_repo: Dolly-Reforming-HerselfA-Comedy-in-Four-Acts_27271
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jones, Henry Arthur
+    alias: Jones, H. A. (Henry Arthur)
+    birthdate: 1851
+    deathdate: 1929
+    gutenberg_agent_id: '32584'
+    url: http://www.gutenberg.org/2009/agents/32584
+description: ''
+gutenberg_issued: '2008-11-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27271'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama'
+- !lcc 'PR'
+- !lcsh 'Comedies'
+title: 'Dolly Reforming Herself: A Comedy in Four Acts'
+url: http://www.gutenberg.org/ebooks/27271
